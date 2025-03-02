@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Sync-FATEC/API-4-BACK.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Sync-FATEC/API-4-FRONT.git
