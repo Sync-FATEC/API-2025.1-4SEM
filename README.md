@@ -192,6 +192,16 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
 </tbody>
 </table>
 
+<h2>:movie_camera: MVP </h2>
+
+<h3>Administrador</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/21537378-0322-48bd-a993-aa87d5970df2" 
+alt="MVP">
+
+<h3>Cliente</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/53e42ba8-88f4-4c90-a902-86c1b060c0a3" 
+alt="MVP">
+
 <br>
 
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
