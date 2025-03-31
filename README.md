@@ -133,6 +133,10 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
 - Definido e documentado.
 - Campos, tipos de dados e relações claramente especificados.
 
+### Arquitetura do Sistema
+- Definida e validada pela equipe técnica.
+- Diagramas e decisões arquiteturais documentadas.
+
 <br>
 
 <h2 id='dod'> DoD (Definition of Done) </h2>
