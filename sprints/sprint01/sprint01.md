@@ -161,7 +161,7 @@
 
 
 <h2>Modelo de dados</h2>
-<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint01/modelo-de-dados.jpg">
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint01/modelo-de-dados.jpeg">
 
 <h2>DoD (Definition of Done)</h2>
 
