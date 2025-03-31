@@ -173,13 +173,13 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
     <td>10/03/2025</td>
     <td>30/03/2025</td>
     <td><a href="https://github.com/Sync-FATEC/API-2025.1-4SEM/tree/main/sprints/sprint01/sprint01.md">Relatório</a></td> 
-    <td>🔄</td>
+    <td>✅</td>
   </tr>
   <tr align="center">
     <td>02</td>
     <td>07/04/2025</td>
     <td>27/04/2025</td>
-    <td></td> 
+    <td><a href="https://github.com/Sync-FATEC/API-2025.1-4SEM/tree/main/sprints/sprint02/sprint02.md">Relatório</a></td> 
     <td>🔄</td>
   </tr>
   <tr align="center">

@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td>Como administrador, quero que o sistema suporte um modelo de dados dinâmico e permita o cadastro de estações meteorológicas, garantindo flexibilidade na gestão e registro dessas informações.</td>
-      <td>O sistema deve permitir o cadastro de estações meteorológicas com nome, modelo do hardware, latitude, longitude, endereço, status da estação, última atualização, data da instalação e frequência de coleta.</td>
+      <td>O sistema deve permitir o cadastro de estações meteorológicas com nome, UUID, latitude, longitude.</td>
       <td>3</td>
       <td>Criar interface de cadastro de estações.</td>
       <td>Implementar a lógica para validar e salvar os dados das estações meteorológicas no banco de dados.</td>
@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td>Como administrador, quero cadastrar novos parâmetros meteorológicos para garantir que todas as medições necessárias sejam registradas corretamente.</td>
-      <td>O sistema deve permitir o cadastro de parâmetros meteorológicos com nome, descrição, nome do sensor e tipo de sensor.</td>
+      <td>O sistema deve permitir o cadastro de parâmetros meteorológicos com tipo json, nome, unidade, casas decimais, fator, offset.</td>
       <td>3</td>
       <td>Criar interface de cadastro de parâmetros.</td>
       <td>Implementar a lógica para validar e salvar os novos parâmetros meteorológicos no banco de dados.</td>
@@ -159,3 +159,18 @@
   </tbody>
 </table>
 
+
+<h2>Modelo de dados</h2>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint01/modelo-de-dados.jpg">
+
+<h2>DoD (Definition of Done)</h2>
+
+<h2>Mockups</h2>
+
+<h3>Administrador</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/c0f23d6a-d3a3-4455-83e0-aad606994083" 
+alt="MVP">
+
+<h3>Cliente</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/53e42ba8-88f4-4c90-a902-86c1b060c0a3" 
+alt="MVP">
