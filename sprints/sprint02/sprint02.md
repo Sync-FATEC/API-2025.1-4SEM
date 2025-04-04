@@ -33,40 +33,41 @@
       <td>Os dados devem ser armazenados em uma estrutura eficiente e com índices para consultas rápidas.</td>
       <td>5</td>
       <td>-</td>
-      <td>Otimizar escrita de dados no backend com controle de lotes.</td>
-      <td>Definir estratégia de particionamento, índices e compressão.</td>
+      <td>Criar processo assíncrono para armazenar os dados recebidos das estações sem travar a aplicação principal.</td>
+      <td>Criar índices nos campos de data e identificador da estação para acelerar as consultas filtradas.</td>
     </tr>
     <tr>
       <td>Como administrador, quero monitorar o funcionamento das estações meteorológicas em tempo real.</td>
       <td>O sistema deve exibir, em tempo real, dados das estações e última atualização.</td>
       <td>8</td>
-      <td>Criar interface de visualização com atualização automática das informações das estações.</td>
+      <td>-</td>
       <td>Implementar serviço de atualização contínua para enviar dados atualizados.</td>
       <td>Realizar consultas em tempo real para verificar status e última transmissão de cada estação.</td>
     </tr>
     <tr>
       <td>Como usuário, quero receber notificações em caso de eventos meteorológicos extremos.</td>
-      <td>O sistema deve enviar notificações quando condições críticas forem atingidas.</td>
+      <td>O sistema deve enviar notificações quando condições críticas forem atingidas.
+      O sistema deve enviar notificações por e-mail quando condições críticas forem atingidas.</td>
       <td>3</td>
-      <td>Criar interface de alerta (push notification).</td>
+      <td>-</td>
       <td>Criar lógica para monitorar e disparar alertas.</td>
       <td>Registrar notificações e condições que as dispararam.</td>
     </tr>
     <tr>
-      <td>Como sistema, quero registrar automaticamente os dados coletados pelas estações meteorológicas em um datalogger, para garantir a persistência e integridade das informações.</td>
-      <td>Todos os dados recebidos devem ser registrados automaticamente em log seguro e persistente.</td>
-      <td>5</td>
+      <td>Como usuário, quero acessar dashboards interativos com os dados coletados pelas estações.</td>
+      <td>O usuário deve visualizar um painel com gráficos com os dados meteorológicos coletados.</td>
+      <td>8</td>
+      <td>Criar layout do dashboard com componentes gráficos.</td>
+      <td>Criar endpoint para buscar os dados de sensores de determinada estação.</td>
       <td>-</td>
-      <td>Implementar serviço de log dos dados recebidos.</td>
-      <td>Criar tabela de log com histórico completo.</td>
     </tr>
     <tr>
-      <td>Como administrador, quero montar e configurar a estação meteorológica com sensores para coletar dados ambientais de forma precisa.</td>
-      <td>O sistema deve permitir o registro da montagem da estação e vinculação de sensores.</td>
-      <td>8</td>
-      <td>Criar interface para configuração de sensores por estação.</td>
-      <td>Criar lógica para registrar e atualizar sensores e seus parâmetros.</td>
-      <td>Criar tabelas de sensores com relação às estações e aos tipos de dados coletados.</td>
+      <td>Como usuário, quero filtrar os dados exibidos no dashboard por data, para visualizar informações específicas de um período determinado.</td>
+      <td>O usuário deve conseguir selecionar uma data ou intervalo de datas.</td>
+      <td>3</td>
+      <td>Implementar campos de seleção de data/início e fim.</td>
+      <td>Implementar lógica de consulta otimizada por intervalo de datas.</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Como usuário, quero acessar um tutorial sobre os conceitos meteorológicos apresentados.</td>
