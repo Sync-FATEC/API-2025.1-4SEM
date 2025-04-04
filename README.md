@@ -41,7 +41,7 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
 |--------|-----------|
 | RF1 | Permitir o registro de estações meteorológicas com sensores variados, adaptando-se a diferentes tipos de medições. |
 | RF2 | Permitir o cadastro, edição, visualização e remoção de estações meteorológicas. |
-| RF3 | Permitir o cadastro, edição, visualização e remoção dos parâmetros meteorológicos (ex: temperatura, umidade). |
+| RF3 | Permitir o cadastro, edição, visualização e remoção dos parâmetros meteorológicos. |
 | RF4 | Permitir o cadastro, edição, visualização e remoção dos alertas de condições críticas. |
 | RF5 | Permitir o cadastro, edição, visualização e remoção de usuários com diferentes permissões. |
 | RF6 | Receber e armazenar dados enviados em tempo real pelas estações meteorológicas. |
@@ -61,7 +61,7 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
 |--------|-----------|
 | RNF1 | O sistema deve ser fácil de usar e visualmente agradável, especialmente nos painéis com os dados das estações. |
 | RNF2 | O sistema deve envolver estudantes do ensino médio com conteúdos educativos claros e interessantes, facilitando o aprendizado. |
-| RNF3 | Toda a comunicação entre a plataforma e as aplicações (como o app ou o site) deve ser bem documentada, com exemplos claros para facilitar futuras integrações. |
+| RNF3 | Toda a comunicação entre a plataforma e as aplicações deve ser bem documentada, com exemplos claros para facilitar futuras integrações. |
 | RNF4 | O sistema deve ter um processo automático que verifique se tudo está funcionando corretamente antes de publicar uma nova versão. |
 | RNF5 | Sempre que houver uma atualização no sistema, ela deve ser publicada automaticamente para que o cliente sempre tenha acesso à versão mais recente, sem precisar esperar ou atualizar manualmente. |
 
