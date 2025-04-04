@@ -74,8 +74,8 @@
       <td>O sistema deve disponibilizar tutoriais com explicações sobre medições e sensores.</td>
       <td>8</td>
       <td>Criar página interativa com tutoriais em texto e imagem.</td>
-      <td>Implementar rotas e lógica de leitura dos conteúdos educativos</td>
-      <td>Criar estrutura de banco de dados para armazenar conteúdos de tutorial.</td>
+      <td>Implementar rotas e lógica de leitura dos conteúdos educativos.</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
