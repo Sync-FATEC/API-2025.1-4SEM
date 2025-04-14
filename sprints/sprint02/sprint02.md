@@ -58,7 +58,7 @@
       <td>O usuário deve visualizar um painel com gráficos com os dados meteorológicos coletados.</td>
       <td>8</td>
       <td>Criar layout do dashboard com componentes gráficos.</td>
-      <td>Criar endpoint para buscar os dados de sensores de determinada estação.</td>
+      <td>Criar endpoint para retornar os dados dos gráficos da dashboard</td>
       <td>-</td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
       <td>O sistema deve disponibilizar tutoriais com explicações sobre medições e sensores.</td>
       <td>8</td>
       <td>Criar página interativa com tutoriais em texto e imagem.</td>
-      <td>Implementar rotas e lógica de leitura dos conteúdos educativos.</td>
+      <td>-</td>
       <td>-</td>
     </tr>
   </tbody>
