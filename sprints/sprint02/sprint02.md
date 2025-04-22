@@ -33,7 +33,7 @@
       <td>Os dados devem ser armazenados em uma estrutura eficiente e com índices para consultas rápidas.</td>
       <td>5</td>
       <td>-</td>
-      <td>Criar processo assíncrono para armazenar os dados recebidos das estações sem travar a aplicação principal.</td>
+      <td>Criar processo assíncrono para armazenar os dados recebidos sem travar a aplicação principal.</td>
       <td>Criar índices nos campos de data e identificador da estação para acelerar as consultas filtradas.</td>
     </tr>
     <tr>
@@ -41,8 +41,8 @@
       <td>O sistema deve exibir, em tempo real, o status operacional das unidades de coleta e o horário da última verificação.</td>
       <td>5</td>
       <td>-</td>
-      <td>Criar processo assíncrono para armazenar os dados recebidos das estações sem travar a aplicação principal.</td>
-      <td>Criar índices nos campos de data e identificador da estação para acelerar as consultas filtradas.</td>
+      <td>Implementar serviço de atualização contínua para enviar dados atualizados.</td>
+      <td>Realizar consultas em tempo real para verificar status e última transmissão de cada estação.</td>
     </tr>
     <tr>
       <td>Como usuário, quero receber notificações em caso de eventos meteorológicos extremos.</td>
