@@ -101,19 +101,21 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
     <tr><td>19</td><td>MÉDIA</td><td>Como sistema, quero emular o recebimento de dados das estações meteorológicas, para que o projeto possa ser desenvolvidos e testados sem equipamentos reais.</td><td>5</td><td>2</td><td>RF6</td></tr>
     <tr><td>20</td><td>MÉDIA</td><td>Como sistema, quero processar os dados recebidos para calcular médias horárias e diárias.</td><td>8</td><td>2</td><td>RF6</td></tr>
     <tr><td>21</td><td>MÉDIA</td><td>Como sistema, quero armazenar os dados recebidos de forma otimizada para suportar grandes volumes de informações.</td><td>5</td><td>2</td><td>RF6</td></tr>
-    <tr><td>22</td><td>MÉDIA</td><td>Como usuário, quero receber notificações em caso de eventos meteorológicos extremos.</td><td>3</td><td>2</td><td>RF8</td></tr>
-    <tr><td>23</td><td>MÉDIA</td><td>Como usuário, quero acessar dashboards interativos com os dados coletados pelas estações.</td><td>8</td><td>2</td><td>RF7</td></tr>
-    <tr><td>24</td><td>MÉDIA</td><td>Como usuário, quero filtrar os dados exibidos no dashboard por data, para visualizar informações específicas de um período determinado.</td><td>3</td><td>2</td><td>RF7</td></tr>
-    <tr><td>25</td><td>MÉDIA</td><td>Como usuário, quero acessar um tutorial sobre os conceitos meteorológicos apresentados.</td><td>8</td><td>2</td><td>RF11</td></tr>
-    <tr><td>26</td><td></td><td>Como sistema, quero receber dados em tempo real das estações meteorológicas físicas, substituindo a emulação, para operar em produção.</td><td>8</td><td>3</td><td>RF6</td></tr>
-    <tr><td>27</td><td>BAIXA</td><td>Como administrador, quero monitorar o funcionamento das estações meteorológicas em tempo real.</td><td>8</td><td>2</td><td>RF6</td></tr>
-    <tr><td>28</td><td>BAIXA</td><td>Como sistema, quero registrar automaticamente os dados coletados pelas estações meteorológicas em um datalogger, para garantir a persistência e integridade das informações.</td><td>5</td><td>3</td><td>RF9</td></tr>
-    <tr><td>29</td><td>BAIXA</td><td>Como administrador, quero montar e configurar a estação meteorológica com sensores para coletar dados ambientais de forma precisa.</td><td>8</td><td>3</td><td>RF10</td></tr>
-    <tr><td>30</td><td>BAIXA</td><td>Como administrador, quero gerar relatórios detalhados sobre as condições meteorológicas registradas.</td><td>5</td><td>3</td><td>RF7</td></tr>
-    <tr><td>31</td><td>BAIXA</td><td>Como usuário, quero acessar um histórico de medições para comparar variações ao longo do tempo.</td><td>5</td><td>3</td><td>RF6</td></tr>
-    <tr><td>32</td><td>BAIXA</td><td>Como administrador, quero que o sistema registre logs de atividades para segurança.</td><td>8</td><td>3</td><td>RF6</td></tr>
-    <tr><td>33</td><td>BAIXA</td><td>Como usuário, quero alterar minha senha para garantir a segurança da minha conta.</td><td>3</td><td>3</td><td>RF5</td></tr>
-    <tr><td>34</td><td>BAIXA</td><td>Como usuário, quero poder recuperar minha senha caso eu a esqueça, para continuar acessando o sistema.</td><td>3</td><td>3</td><td>RF5</td></tr>
+    <tr><td>22</td><td>MÉDIA</td><td>Como administrador, quero acompanhar em tempo real o estado operacional das unidades de coleta, para garantir a continuidade do serviço.</td><td>5</td><td>2</td><td>RF6</td></tr>
+    <tr><td>23</td><td>MÉDIA</td><td>Como usuário, quero receber notificações em caso de eventos meteorológicos extremos.</td><td>3</td><td>2</td><td>RF8</td></tr>
+    <tr><td>24</td><td>MÉDIA</td><td>Como usuário, quero acessar dashboards interativos com os dados coletados pelas estações.</td><td>8</td><td>2</td><td>RF7</td></tr>
+    <tr><td>25</td><td>MÉDIA</td><td>Como usuário, quero filtrar os dados exibidos no dashboard por data, para visualizar informações específicas de um período determinado.</td><td>3</td><td>2</td><td>RF7</td></tr>
+    <tr><td>26</td><td>MÉDIA</td><td>Como usuário, quero acessar um tutorial sobre os conceitos meteorológicos apresentados.</td><td>8</td><td>2</td><td>RF11</td></tr>
+    <tr><td>27</td><td>BAIXA</td><td>Como sistema, quero receber dados em tempo real das estações meteorológicas físicas, substituindo a emulação, para operar em produção.</td><td>8</td><td>3</td><td>RF6</td></tr>
+    <tr><td>28</td><td>BAIXA</td><td>Como administrador, quero monitorar o funcionamento das estações meteorológicas em tempo real.</td><td>8</td><td>3</td><td>RF6</td></tr>
+    <tr><td>29</td><td>BAIXA</td><td>Como sistema, quero registrar automaticamente os dados coletados pelas estações meteorológicas em um datalogger, para garantir a persistência e integridade das informações.</td><td>5</td><td>3</td><td>RF9</td></tr>
+    <tr><td>30</td><td>BAIXA</td><td>Como administrador, quero montar e configurar a estação meteorológica com sensores para coletar dados ambientais de forma precisa.</td><td>8</td><td>3</td><td>RF10</td></tr>
+    <tr><td>31</td><td>BAIXA</td><td>Como administrador, quero gerar relatórios detalhados sobre as condições meteorológicas registradas.</td><td>5</td><td>3</td><td>RF7</td></tr>
+    <tr><td>32</td><td>BAIXA</td><td>Como usuário, quero acessar um histórico de medições para comparar variações ao longo do tempo.</td><td>5</td><td>3</td><td>RF6</td></tr>
+    <tr><td>33</td><td>BAIXA</td><td>Como administrador, quero que o sistema registre logs de atividades para segurança.</td><td>8</td><td>3</td><td>RF6</td></tr>
+    <tr><td>34</td><td>BAIXA</td><td>Como usuário, quero alterar minha senha para garantir a segurança da minha conta.</td><td>3</td><td>3</td><td>RF5</td></tr>
+    <tr><td>35</td><td>BAIXA</td><td>Como usuário, quero poder recuperar minha senha caso eu a esqueça, para continuar acessando o sistema.</td><td>3</td><td>3</td><td>RF5</td></tr>
+
 
   </tbody>
 </table>

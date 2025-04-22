@@ -13,23 +13,23 @@
   </thead>
   <tbody>
     <tr>
-      <td>Como sistema, quero receber dados das estações meteorológicas em tempo real.</td>
-      <td>O sistema deve receber dados em tempo real, validá-los e armazená-los.</td>
+      <td>Como sistema, quero emular o recebimento de dados das estações meteorológicas, para que o projeto possa ser desenvolvidos e testados sem equipamentos reais.</td>
+<td>O sistema deve gerar automaticamente dados simulados dos sensores, com variações realistas em intervalos configuráveis, permitindo que outras funcionalidades operem normalmente mesmo sem conexão com estações reais.</td>
       <td>5</td>
       <td>-</td>
-      <td>Criar endpoint para receber dados em tempo real. Validar dados recebidos.</td>
-      <td>Criar estrutura de tabela para armazenar dados em tempo real com performance.</td>
+      <td>Criar um serviço que gere dados simulados dos sensores meteorológicos. Implementar intervalo automático de envio dos dados.</td>
+      <td>Armazenar os dados simulados na mesma estrutura/tabela que os dados reais.</td>
     </tr>
     <tr>
       <td>Como sistema, quero processar os dados recebidos para calcular médias horárias e diárias.</td>
       <td>O sistema deve calcular e armazenar médias horárias e diárias de forma automática a partir dos dados recebidos.</td>
       <td>8</td>
-      <td>-</td>
-      <td>Criar rotinas de cálculo automático.</td>
+      <td>Criar filtros por tipo de média horária ou diária.</td>
+      <td>Criar endpoints para retornar as médias horárias e diárias com filtros por data e estação.</td>
       <td>Criar tabelas específicas para armazenar médias horárias e diárias.</td>
     </tr>
     <tr>
-      <td>Como sistema, quero armazenar os dados recebidos das estações meteorológicas de forma otimizada para suportar grandes volumes de informações.</td>
+      <td>Como sistema, quero armazenar os dados recebidos de forma otimizada para suportar grandes volumes de informações.</td>
       <td>Os dados devem ser armazenados em uma estrutura eficiente e com índices para consultas rápidas.</td>
       <td>5</td>
       <td>-</td>
@@ -37,12 +37,12 @@
       <td>Criar índices nos campos de data e identificador da estação para acelerar as consultas filtradas.</td>
     </tr>
     <tr>
-      <td>Como administrador, quero monitorar o funcionamento das estações meteorológicas em tempo real.</td>
-      <td>O sistema deve exibir, em tempo real, dados das estações e última atualização.</td>
-      <td>8</td>
+      <td>Como administrador, quero acompanhar em tempo real o estado operacional das unidades de coleta, para garantir a continuidade do serviço.</td>
+      <td>O sistema deve exibir, em tempo real, o status operacional das unidades de coleta e o horário da última verificação.</td>
+      <td>5</td>
       <td>-</td>
-      <td>Implementar serviço de atualização contínua para enviar dados atualizados.</td>
-      <td>Realizar consultas em tempo real para verificar status e última transmissão de cada estação.</td>
+      <td>Criar processo assíncrono para armazenar os dados recebidos das estações sem travar a aplicação principal.</td>
+      <td>Criar índices nos campos de data e identificador da estação para acelerar as consultas filtradas.</td>
     </tr>
     <tr>
       <td>Como usuário, quero receber notificações em caso de eventos meteorológicos extremos.</td>
