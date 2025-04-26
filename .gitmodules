@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Sync-FATEC/API-4-FRONT.git
+[submodule "broker"]
+	path = broker
+	url = https://github.com/Sync-FATEC/API-4-FLASK.git
