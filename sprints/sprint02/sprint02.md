@@ -84,7 +84,7 @@
 <img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint02/modelo-de-dados.png">
 
 <h2>Arquitetura do sistema</h2>
-<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint02/arquitetura.jpeg">
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint02/arquitetura.jpg">
 
 <h2>DoD (Definition of Done)</h2>
 
