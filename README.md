@@ -109,12 +109,11 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
     <tr><td>27</td><td>BAIXA</td><td>Como sistema, quero receber dados em tempo real das estações meteorológicas físicas, substituindo a emulação, para operar em produção.</td><td>8</td><td>3</td><td>RF6</td></tr>
     <tr><td>28</td><td>BAIXA</td><td>Como administrador, quero monitorar o funcionamento das estações meteorológicas em tempo real.</td><td>8</td><td>3</td><td>RF6</td></tr>
     <tr><td>29</td><td>BAIXA</td><td>Como sistema, quero registrar automaticamente os dados coletados pelas estações meteorológicas em um datalogger, para garantir a persistência e integridade das informações.</td><td>5</td><td>3</td><td>RF9</td></tr>
-    <tr><td>30</td><td>BAIXA</td><td>Como administrador, quero montar e configurar a estação meteorológica com sensores para coletar dados ambientais de forma precisa.</td><td>8</td><td>3</td><td>RF10</td></tr>
-    <tr><td>31</td><td>BAIXA</td><td>Como administrador, quero gerar relatórios detalhados sobre as condições meteorológicas registradas.</td><td>5</td><td>3</td><td>RF7</td></tr>
-    <tr><td>32</td><td>BAIXA</td><td>Como usuário, quero acessar um histórico de medições para comparar variações ao longo do tempo.</td><td>5</td><td>3</td><td>RF6</td></tr>
-    <tr><td>33</td><td>BAIXA</td><td>Como administrador, quero que o sistema registre logs de atividades para segurança.</td><td>8</td><td>3</td><td>RF6</td></tr>
-    <tr><td>34</td><td>BAIXA</td><td>Como usuário, quero alterar minha senha para garantir a segurança da minha conta.</td><td>3</td><td>3</td><td>RF5</td></tr>
-    <tr><td>35</td><td>BAIXA</td><td>Como usuário, quero poder recuperar minha senha caso eu a esqueça, para continuar acessando o sistema.</td><td>3</td><td>3</td><td>RF5</td></tr>
+    <tr><td>30</td><td>BAIXA</td><td>Como administrador, quero gerar relatórios detalhados sobre as condições meteorológicas registradas.</td><td>5</td><td>3</td><td>RF7</td></tr>
+    <tr><td>31</td><td>BAIXA</td><td>Como usuário, quero acessar um histórico de medições para comparar variações ao longo do tempo.</td><td>5</td><td>3</td><td>RF6</td></tr>
+    <tr><td>32</td><td>BAIXA</td><td>Como administrador, quero que o sistema registre logs de atividades para segurança.</td><td>8</td><td>3</td><td>RF6</td></tr>
+    <tr><td>33</td><td>BAIXA</td><td>Como usuário, quero alterar minha senha para garantir a segurança da minha conta.</td><td>3</td><td>3</td><td>RF5</td></tr>
+    <tr><td>34</td><td>BAIXA</td><td>Como usuário, quero poder recuperar minha senha caso eu a esqueça, para continuar acessando o sistema.</td><td>3</td><td>3</td><td>RF5</td></tr>
 
 
   </tbody>
@@ -193,13 +192,13 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
     <td>07/04/2025</td>
     <td>27/04/2025</td>
     <td><a href="https://github.com/Sync-FATEC/API-2025.1-4SEM/tree/main/sprints/sprint02/sprint02.md">Relatório</a></td> 
-    <td>🔄</td>
+    <td>✅</td>
   </tr>
   <tr align="center">
     <td>03</td>
     <td>05/05/2025</td>
     <td>25/05/2025</td>
-    <td></td> 
+    <td><a href="https://github.com/Sync-FATEC/API-2025.1-4SEM/tree/main/sprints/sprint03/sprint03.md">Relatório</a></td> 
     <td>🔄</td>
   </tr>
 </tbody>
@@ -208,11 +207,11 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
 <h2>:movie_camera: MVP </h2>
 
 <h3>Administrador</h3>
-<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/c0f23d6a-d3a3-4455-83e0-aad606994083" 
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/fa0d7f62-450a-4a75-8282-03ddebef8b86" 
 alt="MVP">
 
 <h3>Cliente</h3>
-<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/53e42ba8-88f4-4c90-a902-86c1b060c0a3" 
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/8031a13e-5fab-424c-b75d-c40da4b3a13d" 
 alt="MVP">
 
 <br>
@@ -233,8 +232,10 @@ alt="MVP">
 | :---------: | :---------: | :---------------------: | :-----------------: | :-------: |
 | <img src="https://github.com/joaogabgr.png?size=50" width=50px> | João Gabriel Solis | Scrum Master | <a href="https://github.com/joaogabgr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/joaoggbs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <img src="https://github.com/Ana-Laura-Moratelli.png?size=50" width=50px> | Ana Laura Moratelli | Product Owner | <a href="https://github.com/Ana-Laura-Moratelli"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/anamoratelli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| <img src="https://github.com/Karnas01.png?size=50" width=50px> | Arthur Karnas | Desenvolvedor | <a href="https://github.com/Karnas01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/arthur-karnas-da-rocha-b90433271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <img src="https://github.com/yokotaerik.png?size=50" width=50px> | Erik Yokota | Desenvolvedor | <a href="https://github.com/yokotaerik"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/erik-camara-yokota-685439233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <img src="https://github.com/collafilipe.png?size=50" width=50px> | Filipe Colla | Desenvolvedor | <a href="https://github.com/collafilipe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/filipe-colla?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| <img src="https://github.com/ZduardoPereira.png?size=50" width=50px> | José Eduardo Fernandes | Desenvolvedor | <a href="https://github.com/ZduardoPereira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-fernandes-pereira-b26517284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | <img src="https://github.com/Kaue-Francisco.png?size=50" width=50px> | Kauê Francisco | Desenvolvedor | <a href="https://github.com/Kaue-Francisco"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/kau%C3%AA-francisco-3b13aa255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |
 
 <a href='#topo'> Voltar ao topo </a>

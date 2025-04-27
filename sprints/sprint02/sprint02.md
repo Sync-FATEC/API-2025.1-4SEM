@@ -79,3 +79,20 @@
     </tr>
   </tbody>
 </table>
+
+<h2>Modelo de dados</h2>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint02/modelo-de-dados.png">
+
+<h2>Arquitetura do sistema</h2>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint02/arquitetura.jpeg">
+
+<h2>DoD (Definition of Done)</h2>
+
+<h2>Mockups</h2>
+<h3>Administrador</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/fa0d7f62-450a-4a75-8282-03ddebef8b86" 
+alt="MVP">
+
+<h3>Cliente</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/raw/main/assets/8031a13e-5fab-424c-b75d-c40da4b3a13d" 
+alt="MVP">
