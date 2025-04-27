@@ -49,7 +49,7 @@
       <td>O usuário deve visualizar medições históricas por período selecionado.</td>
       <td>5</td>
       <td>Criar tela de histórico de medições com filtro por período.</td>
-      <td>Criar endpoint para consultar histórico por data/período.</td>
+      <td>-</td>
       <td>-</td>
     </tr>
     <tr>
