@@ -45,14 +45,6 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>Como usuário, quero acessar um histórico de medições para comparar variações ao longo do tempo.</td>
-      <td>O usuário deve visualizar medições históricas por período selecionado.</td>
-      <td>5</td>
-      <td>Criar tela de histórico de medições com filtro por período.</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
       <td>Como administrador, quero que o sistema registre logs de atividades para segurança.</td>
       <td>Todas as ações administrativas devem ser registradas em logs de atividades.</td>
       <td>8</td>
