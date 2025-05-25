@@ -197,7 +197,7 @@ Nossa proposta é criar um sistema eficiente e acessível, integrando sensores I
     <td>05/05/2025</td>
     <td>25/05/2025</td>
     <td><a href="https://github.com/Sync-FATEC/API-2025.1-4SEM/tree/main/sprints/sprint03/sprint03.md">Relatório</a></td> 
-    <td>🔄</td>
+    <td>✅</td>
   </tr>
 </tbody>
 </table>
@@ -213,7 +213,7 @@ alt="MVP">
 alt="MVP">
 
 <h3>Estação</h3>
-<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/68cc2987-b201-4e56-a8fb-4a09136bbd8d" 
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/d57d1a6c-1d8f-4f35-ad7b-2b5ecaa3acb5" 
 alt="MVP">
 
 <br>

@@ -80,3 +80,7 @@ alt="MVP">
 <h3>Cliente</h3>
 <img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/cbf1e8a0-4ced-42ec-ae87-976c3e770e8c" 
 alt="MVP">
+
+<h3>Estação</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/d57d1a6c-1d8f-4f35-ad7b-2b5ecaa3acb5" 
+alt="MVP">
