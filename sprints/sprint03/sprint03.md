@@ -45,14 +45,6 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>Como administrador, quero que o sistema registre logs de atividades para segurança.</td>
-      <td>Todas as ações administrativas devem ser registradas em logs de atividades.</td>
-      <td>8</td>
-      <td>-</td>
-      <td>Implementar sistema de registro de logs.</td>
-      <td>Criar tabela de logs de atividades.</td>
-    </tr>
-    <tr>
       <td>Como usuário, quero alterar minha senha para garantir a segurança da minha conta.</td>
       <td>O usuário deve conseguir alterar sua senha mediante autenticação.</td>
       <td>3</td>
@@ -70,3 +62,21 @@
     </tr>
   </tbody>
 </table>
+
+
+<h2>Modelo de dados</h2>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint03/modelo-de-dados.png">
+
+<h2>Arquitetura do sistema</h2>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/blob/main/sprints/sprint03/arquitetura.jpg">
+
+<h2>DoD (Definition of Done)</h2>
+
+<h2>Mockups</h2>
+<h3>Administrador</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/fb8fb41f-c6d3-4ccc-80b9-806418bed236" 
+alt="MVP">
+
+<h3>Cliente</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/cbf1e8a0-4ced-42ec-ae87-976c3e770e8c" 
+alt="MVP">
