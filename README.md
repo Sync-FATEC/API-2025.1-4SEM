@@ -212,6 +212,10 @@ alt="MVP">
 <img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/cbf1e8a0-4ced-42ec-ae87-976c3e770e8c" 
 alt="MVP">
 
+<h3>Estação</h3>
+<img src="https://github.com/Sync-FATEC/API-2025.1-4SEM/assets/68cc2987-b201-4e56-a8fb-4a09136bbd8d" 
+alt="MVP">
+
 <br>
 
 <h2 id='tecnologias'> 💻 Tecnologias </h2>
